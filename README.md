@@ -6,7 +6,16 @@ Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML e CSS; e como 
 
 ##Sobre 
 
-Esse foi um dos primeiros projetos que fiz em React. Clone do tinder, aplicativo onde é sorteado um profile e mostrado para o usuário escolher em dar match ou não. Ao clicar no ícone ao lado do titulo, vai para tela de Matchs (profiles que combinaram com o usuário), onde é mostrado todas as combinações. Existe também a possibilidade de resetar os matches. Libs instaladas: -styled-components -axios -material-ui
+Esse foi um dos primeiros projetos que fiz em React. Aplicação de agência de viagens, possui uma área pública aonde os usuários podem se candidatar a alguma viagem previamente cadastrada pelo administrador. Possui uma segunda área aonde tem a Dashboard do administrador, aonde ele pode criar viagens, listar as viagens criadas e ver os detalhes de alguma viagem. Na página dos detalhes da viagem, tem a opção de aprovar ou reprovar candidatos pendentes, o ADM pode visualizar os candidatos aprovados.
+
+Libs instaladas:
+
+-axios
+-styled-components
+-material-ui
+-react-helmet
+-react-router-dom
+
 
 Obs.: arquivo packaje.json contem as versões de todas as dependências
 
@@ -18,11 +27,11 @@ Instruções para rodar Por ser um projeto com ReactJS, há a necessidade do Nod
 
 ##Documentação da API 
 
-https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest
+https://documenter.getpostman.com/view/7549981/SW14Vd4b?version=latest
 
 ##Deploy da aplicação com Surge
 
-http://astromatch-tinder.surge.sh
+http://black-gandalf.surge.sh
 
 ##Contato
 
